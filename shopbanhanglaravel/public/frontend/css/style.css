@@ -1,0 +1,199 @@
+li.active {
+    background: #3a16232e;
+}
+input.btn.btn-primary.btn-sm {
+   background: #d5abab;
+   border-radius: 6px;
+}
+.nav-tabs li.active a, .nav-tabs li.active a:hover, .nav-tabs li.active a:focus{
+    background-color: #fe0f77
+}
+body{
+    color: #6dda36;
+    font-size: 18px;
+}
+
+.left-sidebar h2, .brands_products h2 {
+    color: red;
+}
+.mainmenu ul li a:hover, .mainmenu ul li a.active, .shop-menu ul li a.active {
+    color: red;
+    border-radius: 8px;
+}
+img.img.img-responsive.img-slider {
+    height: 350px;
+    padding-right: 75px;
+}
+h2.title{
+    color: red;
+}
+.or {
+    background-color: royalblue;
+}
+.login-form form button, .signup-form form button{
+    background: #c13549;
+    border-radius: 8px;
+}
+#cart_items .cart_info .cart_menu{
+    background-color: red;
+}
+.breadcrumbs .breadcrumb li a{
+    background-color: red;
+    padding: 14px;
+    border-radius: 10px;
+}
+.register-req, .step-one .heading{
+    background-color: #d39e9d;
+    color: #363432;
+}
+
+
+.header-middle{
+  /* //  background: #87a2d9; */
+  background: url('https://th.bing.com/th/id/R.75822e3a2979951147bc277783b0eaa9?rik=71Q3l9p%2bIF258g&pid=ImgRaw&r=0');
+}
+
+.shop-menu ul li a {
+    background: #c2ca42;
+    padding: 5px;
+    
+}
+.product-image-wrapper {
+    border: 1px solid #324038;
+}
+input.btn.btn-default.add-to-cart {
+ 
+    background: rgb(225 168 168);
+    border-radius: 5px;
+}
+.add-to-cart:hover{
+    background-color: #87a2d9;
+}
+body{
+    background: url('https://images.search.yahoo.com/images/view;_ylt=AwrjavhfP4hlIsQAHE.JzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2RlYjIxZTJiZGJlYTQ1MWY3ZDU0NDI4MTg2ZDRiN2IwBGdwb3MDNTMEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbackground%2Bc%25C3%25B4ng%2Bngh%25E1%25BA%25B9%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D53&w=1300&h=731&imgurl=advsolutions.vn%2Fwp-content%2Fuploads%2F2019%2F12%2Fbackground-powerpoint-cong-nghe-11.jpg&rurl=https%3A%2F%2Fadvsolutions.vn%2Fbackground-powerpoint-cong-nghe-dep%2F&size=357.3KB&p=background+c%C3%B4ng+ngh%E1%BA%B9&oid=deb21e2bdbea451f7d54428186d4b7b0&fr2=piv-web&fr=mcafee&tt=Top+50+Background+Powerpoint+c%C3%B4ng+ngh%E1%BB%87+%C4%91%E1%BA%B9p+nh%E1%BA%A5t+cho+b%C3%A0i+thuy%E1%BA%BFt+tr%C3%ACnh+%7C+ADV+Solutions&b=0&ni=21&no=53&ts=&tab=organic&sigr=hCajsyBtVgvc&sigb=zyyEs1BmsPqP&sigi=orYfsU8bIrLs&sigt=1J3hUEWme05y&.crumb=d2sHXP/zp6h&fr=mcafee&fr2=piv-web&type=E210US91215G0');
+}
+.productinfo p{
+    color: red;
+    font-size: 17px;
+}
+
+.category-products .panel-default .panel-heading {
+    background: #cf4e89;
+}
+.category-products .panel-default .panel-heading .panel-title a {
+    color: black;
+}
+.brands-name .nav-stacked li a{
+    background: #cf4e89;
+}
+.brands-name .nav-stacked li a{
+    color: black;
+}
+
+.left-sidebar h2:before{
+    background: rgba(0,0,0,0.075);
+}
+
+h2.title:before{
+    background: rgba(0,0,0,.075);
+}
+
+.mainmenu ul li a{
+    background-color: #c2ca42;
+    padding: 7px;
+    border-radius: 8px;
+}
+.mainmenu ul li a:hover, .mainmenu ul li a.active, .shop-menu ul li a.active{
+    background-color: #c2ca42;
+    padding: 7px;
+    
+}
+h1.title.text-center {
+    color: #d33c1a;
+    padding-bottom: 30px;
+}
+
+.left-sidebar h2:after, h2.title:after{
+    border: 1px solid rgba(0,0,0,0.075);
+}
+
+.searchform button {
+    background: #d17dac;
+}
+a#scrollUp{
+    background: #d17dac;
+}
+.shop-menu ul li a{
+    border-radius: 8px;
+}
+
+.login-form h2, .signup-form h2{
+    background-color:#505048;
+    padding: 15px;
+    color: #deede7; 
+}
+.pagination .active a, .pagination .active span, .pagination .active a:hover, .pagination .active span:hover, .pagination .active a:focus, .pagination .active span:focus{
+    background: #d17dac;
+    border-color: #d17dac;
+}
+.product-information p{
+    color: #12d797
+}
+.update, .check_out{
+    background: #8f3c34;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+#cart_items .cart_info .cart_description p {
+    color: #0aed06;
+}
+#cart_items .cart_info .cart_price p {
+    color: #0aed06;
+    font-size: 18px;
+}
+.shopper-info p, .bill-to p, .order-message p{
+    color: #ef1ed5;
+}
+select.input-sm{
+    height: 40px;
+}
+input.btn.btn-primary.btn-sm{
+    font-size: 16px;
+}
+.register-req p{
+    font-size: 16px;
+}
+.category-products .panel-default .panel-heading:hover{
+    background: #87a2d9;
+}
+.product-information h2 {
+    color: #04f343;
+}
+#reviews p {
+    color: #eb7a09;
+}
+
+.sweet-alert{   
+    color: #0e44dd;
+    background-color: #423f3f;
+}
+
+
+.btn-success {
+    color: #fff;
+    background-color: #a96390;
+    border-color: #3160b7;
+}
+
+.text-muted {
+    color: #fff;
+}
+.btn-default {
+    color: #333;
+    background-color: #a96390;
+    border-color: #ccc;
+}
+.cart_delete a{
+    background: red ;
+}
